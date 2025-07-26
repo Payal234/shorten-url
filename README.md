@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+URL Shortener Website (Next.js)
+A clean and minimal URL shortener web app built using Next.js and Node.js where users can generate short URLs without logging in and contact the admin via a contact form.
 
-## Getting Started
+✅ Features
+🔗 Instantly generate a short URL from any valid long URL
 
-First, run the development server:
+📩 Contact page to send a message to the admin
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+💻 Responsive design using Tailwind CSS / Bootstrap
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+⚡ Fast and optimized with Next.js
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🛠 Tech Stack
+Frontend:
+Next.js
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+React.js
 
-## Learn More
+Tailwind CSS 
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Backend:
+Node.js
 
-## Deploy on Vercel
+Express.js
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+MongoDB with Mongoose
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Others:
+Postman (API Testing)
+
+Git & GitHub
