@@ -1,6 +1,8 @@
 "use client";
 
+// import { Link } from "lucide-react";
 import React from "react";
+import Link from "next/link";
 
 const AboutPage = () => {
   return (
@@ -20,13 +22,13 @@ const AboutPage = () => {
         </p>
 
         <div className="mt-10 text-center">
-          <span className="text-purple-600 font-semibold">Need help?</span>{" "}
-          <a
+          <span className="text-purple-600 font-semibold">Need help?</span>
+          <Link
             href="/contact"
             className="text-purple-700 font-medium hover:underline"
           >
             Contact us here →
-          </a>
+          </Link>
         </div>
       </div>
     </div>
