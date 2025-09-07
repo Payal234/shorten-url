@@ -6,7 +6,7 @@ import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-purple-100 text-slate-700 mt-20 pt-8 pb-4 px-6">
+    <footer className="bg-purple-100 text-slate-700 pt-8 pb-4 px-6">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Logo and Description */}
         <div>

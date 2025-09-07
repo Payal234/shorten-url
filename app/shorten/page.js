@@ -37,7 +37,7 @@ const Shorten = () => {
  
 
   return (
-    <div className="w-full px-4 sm:px-6 md:px-8 lg:px-0 max-w-xl mx-auto my-12">
+    <div className="w-full px-4 sm:px-6 md:px-8 lg:px-0 max-w-xl mx-auto my-17">
   <div className="bg-purple-100 p-6 sm:p-8 rounded-2xl shadow-md flex flex-col gap-4">
     <h1 className="font-bold text-xl sm:text-2xl text-center">Generate your short URL</h1>
 
